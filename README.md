@@ -20,7 +20,7 @@ Skills: SQL | PYTHON | MICROSOFT OFFICE
 
 
 <p align="center"> 
-  Visitor count<br>
+  Page Visit Count<br>
   <img src="https://profile-counter.glitch.me/DanielLamps/count.svg" />
 </p>
 
